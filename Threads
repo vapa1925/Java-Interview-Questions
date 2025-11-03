@@ -26,6 +26,12 @@ TERMINATED : A thread will be in this state once it finishes it’s execution.
 17)Interrupt() method?
 18) what is state of deadlock ?(Blocked)
 19)Overriding of start() method?
+20) Thread local?
+21) volatile keyword?
+22) Thread Pool?
+23) excuter framework?
+24) what is mutex?
+
 
 
 
