@@ -34,6 +34,8 @@ Collections.reverse(list)
 Collections.synchronizedList(list)
 
 5) when to use LinkedList and ArrayList?
+
+   
  ArrayList
 Best for:
 Frequent random access (get by index).
@@ -51,6 +53,7 @@ Why:
 Backed by a doubly linked list, so adding/removing nodes is O(1) if you have the reference.
 Avoid:
 Random access by index (get(index) is O(n) because it must traverse nodes).
+
 
 6)Difference between List and Set?
 ✅ 1. Ordering
@@ -78,6 +81,7 @@ Set:
 HashSet, LinkedHashSet, TreeSet.
 
 7)Difference between ArrayList and Vector?
+
 Key Differences
 1) Thread-safety
 
