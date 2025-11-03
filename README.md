@@ -12,9 +12,9 @@ Collection Interview Questions
  6. Thread-Safe Operations
  7. Flexible Data Structures
  8. Performance Optimization
+    
 4)Difference between collections and collection?
 1. Collection (Interface)
-
 Type: Interface in java.util package.
 Role: Root interface of the Collections Framework.
 Purpose: Defines the basic operations for working with a group of objects (like add(), remove(), size()).
