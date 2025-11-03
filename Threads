@@ -15,3 +15,5 @@ Threads Interview Questions
 14)Difference between wait(),notify(),notifyall()methods in object class?
 15)Class level locks object level locks and block level locks with syncronized keyword?
 16)Difference between runable and callable interfaces?
+17)Interrupt() method?
+
