@@ -1,1 +1,14 @@
 Lang Package
+1) Object class methods?
+2) Immutabulity? why string is immutable?
+3) Immutable object creation?
+4) Immutable object with mutable reference? as class,as array,as any collection component?
+5) ClassNotFoundException vs ClassDefenationNotFoundException?
+6) Class Loaders in java?
+7) Memory management in java?
+8) What is Metaspace in java8?
+9) types of variables in java?
+10) what is need of overriding equals() and hashcode() method in java class?
+11) write not on Static Keyword in java?
+12) 
+
