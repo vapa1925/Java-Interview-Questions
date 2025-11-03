@@ -25,5 +25,7 @@ TERMINATED : A thread will be in this state once it finishes it’s execution.
 16)Difference between runable and callable interfaces?
 17)Interrupt() method?
 18) what is state of deadlock ?(Blocked)
+19)Overriding of start() method?
+
 
 
