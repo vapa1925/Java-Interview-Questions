@@ -3,6 +3,14 @@ Threads Interview Questions
 2)what is Multi tasking ?
 3)how many ways we can create thread in java?
 4)Thread life cycle?
+
+NEW : A thread will be in this state before calling start() method.
+RUNNABLE : A thread will be in this state after calling the start() method.
+BLOCKED : A thread will be in this state when a thread is waiting for object lock to enter into synchronized method/block or a thread will be in this state if deadlock occurs.
+WAITING : A thread will be in this state when wait() or join() method is called.
+TIMED_WAITING : A thread will be in this state when sleep() or wait() with timeOut or join() with timeOut is called.
+TERMINATED : A thread will be in this state once it finishes it’s execution.
+
 5)Demaon threads?
 6)how to create demaon thread?
 7)deadlock in threads?
