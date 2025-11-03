@@ -24,4 +24,6 @@ TERMINATED : A thread will be in this state once it finishes it’s execution.
 15)Class level locks object level locks and block level locks with syncronized keyword?
 16)Difference between runable and callable interfaces?
 17)Interrupt() method?
+18) what is state of deadlock ?(Blocked)
+
 
