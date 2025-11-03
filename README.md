@@ -1,9 +1,12 @@
 # Java-Interview-Questions
 Collection Interview Questions
 
-1)Parent Interface of collections class? (Itarable)
-2)Collections hirarchy?
+1)Parent Interface of collections class? (Iterable)
+
+2)Collections hierarchy?
+
 3)Uses of collections?
+
  1. Efficient Data Storage
  2. Easy Data Manipulation
  3. Iteration and Traversal
