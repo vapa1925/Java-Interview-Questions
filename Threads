@@ -1,1 +1,17 @@
 Threads Interview Questions
+1)what is Thread in java?
+2)what is Multi tasking ?
+3)how many ways we can create thread in java?
+4)Thread life cycle?
+5)Demaon threads?
+6)how to create demaon thread?
+7)deadlock in threads?
+8)which is the better approch to create theread extending thread class or implement runable interface?
+9)Difference between join() and sleep() methods?
+10)what is yeald() method?
+11)how to set thread priority in java?
+12)how to stop theread?
+13)override of run() method?
+14)Difference between wait(),notify(),notifyall()methods in object class?
+15)Class level locks object level locks and block level locks with syncronized keyword?
+16)Difference between runable and callable interfaces?
