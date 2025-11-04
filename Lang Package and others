@@ -27,6 +27,6 @@ Lang Package
 27) Externalizable in java? not markar interface
 void writeExternal(ObjectOutput out) throws IOException;
 void readExternal(ObjectInput in) throws IOException, ClassNotFoundException;
-28) 
+28) Innerclass, method local inner class , anonymous InnerClass, static nested Inner Class
 
 
