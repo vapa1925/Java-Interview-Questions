@@ -2,7 +2,7 @@ Lang Package
 1) Object class methods?
 2) Immutabulity? why string is immutable?
 3) Immutable object creation?
-4) Immutable object with mutable reference? as class,as array,as any collection component?
+4) Immutable class with mutable reference? as class,as array,as any collection component? java 17 enhancements (Sealed Classes (final) + Records)
 5) ClassNotFoundException vs ClassDefenationNotFoundException?
 6) Class Loaders in java?
 7) Memory management in java?
@@ -12,5 +12,6 @@ Lang Package
 11) write not on Static Keyword in java?
 12) static blocks and instance blocks?
 13) public final scriptfp static void main(String args[])?
-14)
+14) finalize() method?
+15) 
 
