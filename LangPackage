@@ -13,5 +13,7 @@ Lang Package
 12) static blocks and instance blocks?
 13) public final scriptfp static void main(String args[])?
 14) finalize() method?
-15) 
-
+15) super() , this()? this() or super() must be the first statement in the constructor.You cannot use both this() and super() in the same constructor.
+16) Can you call super() after some statements in the constructor?(NO)
+17) Can constructor chaining lead to infinite recursion? (StackOverflowError)
+18)
