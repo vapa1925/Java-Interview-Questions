@@ -1,0 +1,11 @@
+Exception Handling
+1) Exception hierarchy in java?
+2) Exceptions vs errors?
+3) how to handle out of memory error? java8 feature of out of memory error 
+4) custom exception class? 
+5) try with multiple catch blocks rules?
+6) java7 feature of try with finally? closable feature
+7) System.exit(0) and (1)
+8) try catch finally with return statement tricky questions?
+9) Nested try catch finally tricky questions?
+10)
