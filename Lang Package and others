@@ -30,5 +30,6 @@ void readExternal(ObjectInput in) throws IOException, ClassNotFoundException;
 28) Innerclass, method local inner class , anonymous InnerClass, static nested Inner Class
 29) == and .equals() method?
 30) String Constant pool?
+31) memory leaks in java?
 
 
