@@ -32,5 +32,7 @@ void readExternal(ObjectInput in) throws IOException, ClassNotFoundException;
 30) String Constant pool?
 31) memory leaks in java?
 32) Intern() method in java?
+33) how to calculate hashcode value for string?
+
 
 
