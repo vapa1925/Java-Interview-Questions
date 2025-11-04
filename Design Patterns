@@ -1,0 +1,9 @@
+Design Patterns
+1) Singleton Design pattern
+   1)how many ways we can destroy the singleton behaviour?
+   2) singleton for mutithreaded environment?
+   3) how to call singleton class methods?
+2) Factory Method design pattern
+3) Abastact Factory method design pattern
+4) proxy design pattern
+5) Dependency Injection design pattern
