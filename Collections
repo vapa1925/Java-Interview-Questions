@@ -168,4 +168,6 @@ In Java 8+, if a bucket becomes too large (due to collisions), it converts the l
 15)coursers in collections?
 16) colison problem in Hashmap?
 17) why TreeMap and Treeset Implements comparable interface?
+18) weekHashMap?
+
 
