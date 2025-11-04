@@ -1,6 +1,6 @@
 Lang Package
 1) Object class methods?
-2) Immutabulity? why string is immutable?
+2) Immutabulity? why string is immutable? HashMap with key as immutable class?
 3) Immutable object creation?
 4) Immutable class with mutable reference? as class,as array,as any collection component? java 17 enhancements (Sealed Classes (final) + Records)
 5) ClassNotFoundException vs ClassDefenationNotFoundException?
@@ -28,5 +28,7 @@ Lang Package
 void writeExternal(ObjectOutput out) throws IOException;
 void readExternal(ObjectInput in) throws IOException, ClassNotFoundException;
 28) Innerclass, method local inner class , anonymous InnerClass, static nested Inner Class
+29) == and .equals() method?
+30) String Constant pool?
 
 
