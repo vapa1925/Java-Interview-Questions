@@ -16,4 +16,17 @@ Lang Package
 15) super() , this()? this() or super() must be the first statement in the constructor.You cannot use both this() and super() in the same constructor.
 16) Can you call super() after some statements in the constructor?(NO)
 17) Can constructor chaining lead to infinite recursion? (StackOverflowError)
-18)
+18) Genrics types ?
+19) ArrayList<?> what is meaning of this ?
+20) extends vs implementation?
+21) our own Annotation?
+22) marker (Tag) Interface?
+23) Serialization in java? how to make class Serializable?deserialization
+24) Transient keyword? final vs Transient vs static?
+26) why every class contain default constractor in java?
+27) Externalizable in java? not markar interface
+void writeExternal(ObjectOutput out) throws IOException;
+void readExternal(ObjectInput in) throws IOException, ClassNotFoundException;
+28) 
+
+
