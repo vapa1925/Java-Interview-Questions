@@ -1,0 +1,13 @@
+Spring (IOC)
+1) Dependency injection in spring?
+2) how many types of Injections in spring?Method injection
+3) Spring advantages?
+4) webserver vs Applicaton servers?
+5) Bean Life cycle?
+6) when to go for setter Injection and constactor injection?
+7) Bean scopes?
+8) difference b/w singleton class and spring spring singleton scope?
+9)what happen bean with singleton scope injected to prototype bean?
+10)how many types of containers are there in spring?
+11)diff b/w ApplicationContext and BeanFacatory containers?
+12) What is autowiring and name the different modes of it?
